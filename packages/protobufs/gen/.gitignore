@@ -1,0 +1,6 @@
+# Ignore all generated files
+*
+!.gitignore
+!lib.rs
+!build.rs
+!Cargo.toml

@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "packages/configuration",
+    "apps/auth-service",
+    "apps/telegram-bot",
+    "packages/protobufs/gen"
+]

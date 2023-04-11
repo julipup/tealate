@@ -4,12 +4,13 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@nxrs/cargo": "^0.3.3",
     "nx": "15.5.2",
     "prettier": "^2.6.2"
   },
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "apps/*"
   ]
 }
